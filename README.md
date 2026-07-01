@@ -21,6 +21,9 @@ civic technology, agritech, fintech, energy resilience and digital memory.
 | [Tama PR](docs/tama-pr.md) | Communications | Live | [tamapr.vercel.app](https://tamapr.vercel.app) |
 | [The Paradox Engine](docs/paradox-engine.md) | Publishing | Live | [the-paradox-engine.vercel.app](https://the-paradox-engine.vercel.app) |
 
+## Services
+**[Web3 Engineering Services](docs/web3-services.md)** — AI-native studio shipping production Web3 apps: dApp frontends, AI-agent × on-chain integration, real-time data dashboards, and rapid MVPs.
+
 ## Build stack
 `TypeScript` · `Next.js` · `React` · `Python` · `FastAPI` · `Odoo` · `Tailwind CSS` · `Sanity.io` · `Vercel` · `PostgreSQL`
 
